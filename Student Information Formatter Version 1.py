@@ -1,4 +1,4 @@
-# Version 1 : Contains no string Formatting
+# Version 1 : Contains no string Formatting - Program simply asks for input and onput
 first_name = input("Enter first name:")
 last_name = input("Enter last name :")
 clean_name1 = first_name
