@@ -1,3 +1,4 @@
+# Version 1 : Contains no string Formatting
 first_name = input("Enter first name:")
 last_name = input("Enter last name :")
 clean_name1 = first_name
