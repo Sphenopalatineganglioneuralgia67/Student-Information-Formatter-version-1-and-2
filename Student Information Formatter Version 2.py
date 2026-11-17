@@ -1,4 +1,4 @@
-# Version 2 : Has String Formatting
+# Version 2 : Has String Formatting - Program ask for input and output and formats it.
 first_name = input("Enter first name:")
 last_name = input("Enter last name :")
 clean_name1 = first_name.strip().title()
